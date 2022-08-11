@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-149
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Mouse Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-11
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mouse Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mouse Rigth",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				44
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Mouse Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mouse idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				58,
+				14
+			],
+			"anim": "risa",
+			"fps": 24,
+			"name": "laugh",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/smiler",
+	"position": [
+		-25,
+		125
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		82,
+		89,
+		81
+	],
+	"camera_position": [
+		-110,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

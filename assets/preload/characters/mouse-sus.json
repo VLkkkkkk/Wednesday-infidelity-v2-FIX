@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				150,
+				-33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mickey SUS izquierda"
+		},
+		{
+			"offsets": [
+				119,
+				-64
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Mickey SUS down"
+		},
+		{
+			"offsets": [
+				212,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mickey SUS arriba"
+		},
+		{
+			"offsets": [
+				140,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mickey SUS derecha"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Mickey SUS idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Mickey_SUS",
+	"position": [
+		100,
+		150
+	],
+	"healthicon": "sus",
+	"flip_x": false,
+	"healthbar_colors": [
+		28,
+		17,
+		29
+	],
+	"camera_position": [
+		-400,
+		-200
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2
+}
