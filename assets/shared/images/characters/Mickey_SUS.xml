@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mickey_SUS.png">
+<SubTexture name="Mickey SUS arriba 0000" x="0" y="0" width="428" height="470" frameX="-47" frameY="0" frameWidth="527" frameHeight="470" />
+<SubTexture name="Mickey SUS arriba 0001" x="428" y="0" width="425" height="459" frameX="-59" frameY="-11" frameWidth="527" frameHeight="470" />
+<SubTexture name="Mickey SUS arriba 0002" x="853" y="0" width="453" height="444" frameX="-47" frameY="-26" frameWidth="527" frameHeight="470" />
+<SubTexture name="Mickey SUS arriba 0003" x="0" y="470" width="480" height="442" frameX="-30" frameY="-28" frameWidth="527" frameHeight="470" />
+<SubTexture name="Mickey SUS arriba 0004" x="480" y="470" width="527" height="442" frameX="0" frameY="-28" frameWidth="527" frameHeight="470" />
+<SubTexture name="Mickey SUS derecha0000" x="0" y="912" width="425" height="389" frameX="-13" frameY="0" frameWidth="438" frameHeight="389" />
+<SubTexture name="Mickey SUS derecha0001" x="1306" y="0" width="427" height="384" frameX="-7" frameY="-5" frameWidth="438" frameHeight="389" />
+<SubTexture name="Mickey SUS derecha0002" x="1306" y="384" width="422" height="382" frameX="-6" frameY="-7" frameWidth="438" frameHeight="389" />
+<SubTexture name="Mickey SUS derecha0003" x="292" y="1301" width="418" height="381" frameX="-4" frameY="-8" frameWidth="438" frameHeight="389" />
+<SubTexture name="Mickey SUS derecha0004" x="1296" y="1301" width="423" height="379" frameX="0" frameY="-10" frameWidth="438" frameHeight="389" />
+<SubTexture name="Mickey SUS down0000" x="2319" y="1393" width="404" height="339" frameX="-37" frameY="-17" frameWidth="453" frameHeight="356" />
+<SubTexture name="Mickey SUS down0001" x="2319" y="1051" width="411" height="342" frameX="-33" frameY="-14" frameWidth="453" frameHeight="356" />
+<SubTexture name="Mickey SUS down0002" x="2319" y="705" width="421" height="346" frameX="-27" frameY="-10" frameWidth="453" frameHeight="356" />
+<SubTexture name="Mickey SUS down0003" x="2319" y="356" width="432" height="349" frameX="-20" frameY="-7" frameWidth="453" frameHeight="356" />
+<SubTexture name="Mickey SUS down0004" x="2319" y="0" width="453" height="356" frameX="0" frameY="0" frameWidth="453" frameHeight="356" />
+<SubTexture name="Mickey SUS idle0000" x="2026" y="0" width="293" height="375" frameX="-10" frameY="-11" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0001" x="1733" y="756" width="293" height="376" frameX="-6" frameY="-10" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0002" x="1003" y="1301" width="293" height="380" frameX="-4" frameY="-7" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0003" x="1306" y="766" width="293" height="382" frameX="-3" frameY="-5" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0004" x="718" y="912" width="293" height="385" frameX="0" frameY="-2" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0005" x="1007" y="470" width="293" height="387" frameX="-3" frameY="0" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0006" x="425" y="912" width="293" height="387" frameX="-5" frameY="0" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0007" x="1011" y="912" width="292" height="385" frameX="-10" frameY="-2" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0008" x="0" y="1301" width="292" height="382" frameX="-11" frameY="-5" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0009" x="710" y="1301" width="293" height="381" frameX="-13" frameY="-6" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0010" x="1733" y="0" width="293" height="379" frameX="-15" frameY="-8" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0011" x="1733" y="379" width="293" height="377" frameX="-14" frameY="-10" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0012" x="1733" y="1132" width="293" height="376" frameX="-13" frameY="-11" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0013" x="2026" y="375" width="293" height="375" frameX="-12" frameY="-12" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS idle0014" x="2026" y="0" width="293" height="375" frameX="-10" frameY="-11" frameWidth="308" frameHeight="387" />
+<SubTexture name="Mickey SUS izquierda 0000" x="0" y="1683" width="417" height="370" frameX="0" frameY="0" frameWidth="453" frameHeight="370" />
+<SubTexture name="Mickey SUS izquierda 0001" x="417" y="1683" width="418" height="370" frameX="-5" frameY="0" frameWidth="453" frameHeight="370" />
+<SubTexture name="Mickey SUS izquierda 0002" x="835" y="1683" width="420" height="370" frameX="-9" frameY="0" frameWidth="453" frameHeight="370" />
+<SubTexture name="Mickey SUS izquierda 0003" x="1255" y="1683" width="421" height="370" frameX="-14" frameY="0" frameWidth="453" frameHeight="370" />
+<SubTexture name="Mickey SUS izquierda 0004" x="1676" y="1683" width="432" height="370" frameX="-21" frameY="0" frameWidth="453" frameHeight="370" />
+</TextureAtlas>
