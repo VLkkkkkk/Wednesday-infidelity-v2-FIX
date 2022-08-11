@@ -1,0 +1,59 @@
+{
+	"storyName": "Extra Songs",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Battered",
+			"battered",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Vesania",
+			"mouse",
+			[
+				43,
+				46,
+				40
+			]
+		],
+		[
+			"Kriman't",
+			"mokey",
+			[
+				124,
+				124,
+				124
+			]
+		],
+		[
+			"Unknown Suffering Old",
+			"mouse",
+			[
+				43,
+				46,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"dad",
+		"dad"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extra Songs"
+}

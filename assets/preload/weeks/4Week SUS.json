@@ -1,0 +1,50 @@
+{
+	"storyName": "SUS...?",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "sus",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Week Julian",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Corpse",
+			"sus",
+			[
+				28,
+				17,
+				29
+			]
+		],
+		[
+			"Neddle Mouse",
+			"sus",
+			[
+				28,
+				17,
+				29
+			]
+		],
+		[
+			"Unknown Defeat",
+			"sus",
+			[
+				28,
+				17,
+				29
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week SUS",
+	"hiddenUntilUnlocked": false
+}
